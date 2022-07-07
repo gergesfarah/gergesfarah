@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gergesfarah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning sql server
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in new Technologies
+- 🌱 I’m currently learning sql server and Full Stack Web Development 
+- 💞️ I’m looking to collaborate on more Open Source Project 
 - 📫 How to reach me ...
 
 <!---
